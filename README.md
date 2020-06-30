@@ -1,6 +1,8 @@
 # Bikelangelo
-Bikelangelo: La bicicleta grafitera
+
 ![alt text](https://github.com/sagarrabanana/Bikelangelo/blob/master/bikegif.gif)
+
+Bikelangelo: La bicicleta grafitera
 
 Bikelangelo es un carro que unido a una bicicleta automatiza el proceso de hacer pintadas en el suelo.
 
